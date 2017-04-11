@@ -156,5 +156,3 @@ note()
 mdialogue1()
 dialogue1()
 choice1()
-
-
